@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Thomas I. Mitchell
-tagline:             'on a candid exploration of data'
-description:         'Hey there! Thanks for visiting my website... I hope you enjoy the content and if you would like to discuss furhter please don't hestate to reach me on <a href="https://www.linkedin.com/in/thomas-mitchell-79195355" target="_blank">LinkedIn</a> or <a href="https://twitter.com/ivan_mitch" target="_blank">Twitter</a>'
+tagline:             ''
+description:         'Hey there! Thanks for visiting my website... I hope you enjoy the content and if you would like to discuss further please don't hestate to reach me on <a href="https://www.linkedin.com/in/thomas-mitchell-79195355" target="_blank">LinkedIn</a> or <a href="https://twitter.com/ivan_mitch" target="_blank">Twitter</a>'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/blog'
 paginate:            5
@@ -14,7 +14,7 @@ paginate:            5
 # About/contact
 author:
   name:              Thomas Mitchell
-  url:               https://ivan-mitch.github.io/blog/
+  url:               
   email:             thomasivanmitchell@gmail.com
 
 # Custom vars
