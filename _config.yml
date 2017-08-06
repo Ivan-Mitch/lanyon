@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Thomas I. Mitchell
-tagline:             ',a candid exploration of data'
+tagline:             'on a candid exploration of data'
 description:         'Hey there! Thanks for visiting my website... I hope you enjoy the content and if you would like to discuss furhter please don't hestate to reach me on <a href="https://www.linkedin.com/in/thomas-mitchell-79195355" target="_blank">LinkedIn</a> or <a href="https://twitter.com/ivan_mitch" target="_blank">Twitter</a>'
 url:                 http://lanyon.getpoole.com
 baseurl:             '/blog'
@@ -18,4 +18,4 @@ author:
   email:             thomasivanmitchell@gmail.com
 
 # Custom vars
-version:             1.0.1
+version:             1.0.0
